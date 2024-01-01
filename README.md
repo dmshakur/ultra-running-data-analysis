@@ -70,4 +70,9 @@ I was able to ge the data processing finshed in one day. There was a constant sl
 For the most part everything fit in place, with some tinkering of course. I learnt a few things as well, and I spent quite a bit of time with Pandas. I learnt about masks and now I understand what they are, and that I have been using them for a while, I just never knew it. 
 
 ## Data analysis and exploration
+The data analysis portion of this project took a bit longer than normal. There were some difficult to solve problems, like dealing with plotly and trying to create a heatmap showing different countries and the amount of runners from each, it took a while to figure it out, but I eventually got it to work.
+I also spent a substantial amount of time trying to query the data properly for certain visualizations in order to create data that could properly be used for each visualization, some were quite easy, some took a while and lots of trial and error.
+Upon completing the project I ended up having to go back into previous visualizations and rework my data queries after working on the last visualizationn or so I had realized that I incorrectly queried the data and had to fix those issues.
 
+#### Findings
+In my first visualization I found that there seems to be an even number of athletes of both genders signing up for races of similar length. 
