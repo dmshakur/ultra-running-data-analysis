@@ -1,7 +1,7 @@
 # Ultra running data analysis project
 
 ## Introduction
-**Project Duration**: Started on December 19th, finished on December 
+**Project Duration**: Started on December 19th 2023, finished on January 1st 2024 (The initial data analysis and data cleaning part) 
 
 ### Personal Information
 - **Name**: D'angelo Shakur
